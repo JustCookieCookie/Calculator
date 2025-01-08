@@ -1,5 +1,6 @@
 # Calculator
 Calculator in C++ with graphical interface. For GUI I used **SFML** library. To calculate the **exprtk**.
+![Image alt](https://github.com/JustCookieCookie/Calculator/blob/main/CalculatorScreenshot.png)
 
 # Quick start
 To try the calculator at once, you should download *Calculator.exe* from the release. All files are created in the *Program Files (x86)* folder named *Calculator*.
